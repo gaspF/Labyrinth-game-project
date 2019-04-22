@@ -1,8 +1,7 @@
-""" Game sprites location on disc """
+""" Game sprites location on disc """ #Constantes en maj ctrl shift F
 
 wall_sprite = "Pictures/wall_40px.png"
 floor_sprite = "Pictures/floor_40px.png"
-icon_sprite = "Pictures/macgiver_40px_icon.png"
 sprite_tube_dp = "Pictures/tube_dropped_40px.png"
 sprite_needle_dp = "Pictures/needle_dropped_40px.png"
 sprite_ether_dp = "Pictures/ether_dropped_40px.png"
@@ -28,7 +27,6 @@ mv_down = "down"
 sprite_size = 40
 sprite_side = 15
 window_side = sprite_size * sprite_side
-title = "MacGiver - Le labyrinthe de la mort"
 
 """ Sprites and maze properties """
 
