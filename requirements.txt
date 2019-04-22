@@ -1,1 +1,6 @@
-python 3.7.3pygame 1.9.4
+Package    Version
+---------- -------
+pip        19.0.3 
+pygame     1.9.5  
+setuptools 41.0.0 
+wheel      0.33.1 
