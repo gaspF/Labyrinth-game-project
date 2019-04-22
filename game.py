@@ -17,8 +17,7 @@ class Game:
     def __init__(self):
         self.laby = 0
         self.victory = 2
-        self.icon = pygame.image.load(icon_sprite)
-        pygame.display.set_caption(title)
+
 
     def start_menu(self):
         
